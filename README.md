@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/dH5l2Qb.png" width="100%" alt="Banner" />
-</p>
 
 <h1 align="center">Hi there 👋</h1>
 
