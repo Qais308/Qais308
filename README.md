@@ -13,7 +13,7 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
   <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
-</p> <b><br>
+</p> <br>
 
 
 ### ⚙ Tools I Work With:
@@ -21,7 +21,7 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
   <img src="https://img.icons8.com/ios-filled/48/000000/github.png" title="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
-</p> <br><br>
+</p> <br>
 
 
 
