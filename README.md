@@ -1,5 +1,7 @@
-<!-- GitHub Profile README for Md Qais Khan -->
-<!-- EXACTLY styled like your screenshot -->
+
+<p align="center">
+  <img src="https://i.imgur.com/dH5l2Qb.png" width="100%" alt="Banner" />
+</p>
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -36,7 +38,7 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
 
 ### 📫 Connect with Me:
 - GitHub: [Qais308](https://github.com/Qais308)
-
+- Email:  mdqaiskhan123456@gmail.com
 ---
 
 <p align="center">
