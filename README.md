@@ -1,45 +1,41 @@
 <!-- GitHub Profile README for Md Qais Khan -->
-<!-- Styled like Shubham Londhe's -->
+<!-- EXACTLY styled like your screenshot -->
 
 <h1 align="center">Hi there 👋</h1>
 
-I'm *Md Qais Khan*, a tech enthusiast and aspiring developer, currently exploring the world of programming and web development.  
+I'm <strong>Md Qais Khan</strong>, a tech enthusiast and aspiring developer, currently exploring the world of programming and web development.  
 I enjoy building creative front-end designs and love problem-solving in C. 🌱
 
 ---
 
 ### 🛠 Languages & Technologies I Use:
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
 </p>
 
 ---
 
 ### ⚙ Tools I Work With:
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
+  <img src="https://img.icons8.com/ios-filled/48/000000/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
 </p>
 
 ---
 
-### 📘 Currently Learning:
+### 📚 Currently Learning:
 - Problem Solving with C 🧠  
 - Core Web Development (HTML, CSS, JavaScript) 🌐  
-- Git & GitHub for collaboration 💡
+- Git & GitHub for collaboration 🔐
 
 ---
 
 ### 📫 Connect with Me:
 - GitHub: [Qais308](https://github.com/Qais308)
-- Email:  mdqaiskhan123456@gmial.com<!-- You can add email or socials below -->
-<!-- - 📧 Email: youremail@example.com -->
-<!-- - 💼 LinkedIn: https://linkedin.com/in/your-profile -->
-<!-- - 📸 Instagram: https://instagram.com/yourprofile -->
 
 ---
 
