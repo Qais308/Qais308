@@ -4,7 +4,7 @@
 
 I'm <strong>Md Qais Khan</strong>, a tech enthusiast and aspiring developer, currently exploring the world of programming and web development.  
 I enjoy building creative front-end designs and love problem-solving in C. 🌱
-<br>
+<br><br>
 
 
 ### 🛠 Languages & Technologies I Use:
@@ -15,13 +15,13 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" />
 </p> <br>
 
-
 ### ⚙ Tools I Work With:
 <p>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
-</p> <br>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" style="vertical-align: middle;" height="40" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" style="vertical-align: middle;" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" style="vertical-align: middle;" height="40" />
+</p>
+ <br>
 
 
 
