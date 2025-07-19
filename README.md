@@ -19,7 +19,7 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
 ### ⚙ Tools I Work With:
 <p>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/ios/48/000000/github.png" title="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
 </p> <br>
 
