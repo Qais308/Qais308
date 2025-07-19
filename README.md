@@ -35,7 +35,7 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
 ### 📫 Connect with Me:
 - GitHub: [Qais308](https://github.com/Qais308)
 - Email: [mdqaiskhan123456@gmail.com](mailto:mdqaiskhan123456@gmail.com)
-- LinkedIn:  [Md Qais Khan](https://www.linkedin.com/in/Md-Qais-Khan)
+- LinkedIn:  [Md Qais Khan](https://www.linkedin.com/in/md-qais-khan-6481152a2/)
   
 
 <p align="center">
