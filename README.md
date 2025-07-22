@@ -26,10 +26,8 @@ I enjoy building creative front-end designs and love problem-solving in C. 🌱
 
 
 ### 📚 Currently Learning:
-- Problem Solving with C 🧠  
-- Core Web Development (HTML, CSS, JavaScript) 🌐  
-- Git & GitHub for collaboration 🔐 <br><br>
-
+ <p><img src="https://img.icons8.com/color/48/000000/python.png" title="Python" /></p>  
+ <br>
 
 
 ### 📫 Connect with Me:
